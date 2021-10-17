@@ -1,0 +1,1 @@
+const fx=()=>window.alert("hello npm...");
